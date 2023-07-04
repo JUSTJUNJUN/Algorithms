@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* 二叉树数据结构定义 */
-typedef int ElementType;
+typedef int ElementType;/* 元素类型 */
 typedef struct TreeNode *BinTree;
 typedef BinTree Position;
 struct TreeNode {
