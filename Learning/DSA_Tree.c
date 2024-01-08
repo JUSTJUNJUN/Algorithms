@@ -2,11 +2,10 @@
 
 typedef int EleType;
 typedef struct TNode *PtrToNode;
-
 struct TNode {
     EleType     Element;/* 数据 */
-    PtrToNode       FirstChild;/* 第一个儿子节点 */
-    PtrToNode       NextSibling;/* 兄弟节点 */
+    PtrToNode   FirstChild;/* 第一个儿子节点 */
+    PtrToNode   NextSibling;/* 兄弟节点 */
 };
 
 /* 格式化输出Unix系统的根目录树 */
