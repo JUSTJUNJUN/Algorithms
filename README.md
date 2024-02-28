@@ -1,3 +1,3 @@
-# Data-Structure-and-Algorithms
+# Algorithms
 
-Some samples code about data structrue and algorithms.
+- There is no best, only better.
