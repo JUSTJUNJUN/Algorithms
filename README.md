@@ -1,3 +1,3 @@
 # Algorithms
 
-- There is no best, only better.
+- No best, only better.
